@@ -2,7 +2,8 @@
 <br>
 
 * 💼 OPEN TO WORK...
-* 📈 Estudando JAVA WEB / SPRING BOOT
+* 👨🏿‍🎓 Formado em **CIÊNCIA DA COMPUTAÇÃO** / 2021.2
+* 📈 Estudando **JAVA WEB / SPRING BOOT**
 
 <br>
 
