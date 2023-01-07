@@ -6,7 +6,7 @@
 👨🏿‍🎓 Formado em **CIÊNCIA DA COMPUTAÇÃO** / 2022<br>
 📈 Estudando **JAVA EE / SPRING BOOT**  <br>
  ***
-### Participando do: 
+### Participando Atualmente: 
  📖 **DevDojoAcademy / UDEMY / DIO / Start JAVA Capgemini**
 <div>
  
