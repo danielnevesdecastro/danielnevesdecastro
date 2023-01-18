@@ -2,7 +2,7 @@
 
 💼 OPEN TO WORK...<br>
 👨🏿‍🎓 Formado em **CIÊNCIA DA COMPUTAÇÃO** / 2022<br>
-📈 Estudando **JAVA EE / SPRING BOOT**  <br>
+📈 Estudando **JAVA EE / SPRING BOOT**   <br>
 ### Participando Atualmente: 
  📖 **DevDojoAcademy / UDEMY / DIO / Start JAVA Capgemini**
 <div>
