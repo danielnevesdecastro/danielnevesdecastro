@@ -1,4 +1,4 @@
-### Olá! Daniel Neves aqui     👋 
+### Olá! Daniel Neves aqui      👋 
 
 💼 OPEN TO WORK...<br>
 👨🏿‍🎓 Formado em **CIÊNCIA DA COMPUTAÇÃO** / 2022<br>
