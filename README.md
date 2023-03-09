@@ -5,6 +5,8 @@
 📈 Estudando **JAVA / SPRING **   <br>
 ### Participando Atualmente: 
  📖 **DevDojoAcademy / UDEMY / DIO / Start JAVA Capgemini**
+ 
+   "Falar é fácil. Mostre-me o código!"
 <div>
 
 ***
