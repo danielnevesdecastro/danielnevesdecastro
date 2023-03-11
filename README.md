@@ -6,7 +6,7 @@
 ### Participando Atualmente: 
  📖 **DevDojoAcademy / UDEMY / DIO / Start JAVA Capgemini**
  
-   "Falar é fácil. Mostre-me o código!"
+  
 <div>
 
 ***
@@ -51,5 +51,5 @@
 <!--
 **danielnevesdecastro/danielnevesdecastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+ "Falar é fácil. Mostre-me o código!"
 -->
