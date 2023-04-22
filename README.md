@@ -1,6 +1,6 @@
- ### Olá! Daniel Neves aqui  👋 
+ ### Olá! Daniel Neves aqui 👋 
 
-💼 OPEN TO WORK...<br>
+💼 OPEN TO WORK... <br>
 👨🏿‍🎓 Formado em **CIÊNCIA DA COMPUTAÇÃO** / 2022<br>
 📈 Estudando **JAVA / SPRING **   <br>
 ### Participando Atualmente: 
