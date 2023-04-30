@@ -1,7 +1,7 @@
  ### Olá! Daniel Neves aqui  👋 
 
 💼 OPEN TO WORK... <br>
-👨🏿‍🎓 Formado em **CIÊNCIA DA COMPUTAÇÃO** / 2022<br>
+👨🏿‍🎓 Formado em **CIÊNCIA DA COMPUTAÇÃO**<br>
 📈 Estudando **JAVA / SPRING **   <br>
 ### Participando Atualmente: 
  📖 **DevDojoAcademy / UDEMY / DIO / Start JAVA Capgemini / Oracle ONE**
