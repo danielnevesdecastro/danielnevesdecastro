@@ -1,4 +1,4 @@
- ### Olá! Me chamo Daniel Neves👋 
+ ### Olá! Me chamo Daniel Neves 👋 
 
 💼 OPEN TO WORK... <br>
 👨🏿‍🎓 Formado em **CIÊNCIA DA COMPUTAÇÃO**<br>
