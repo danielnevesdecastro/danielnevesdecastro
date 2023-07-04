@@ -1,6 +1,5 @@
  ### Olá! Me chamo Daniel Neves  👋 
-
-💼 OPEN TO WORK... <br>
+ <br>
 👨🏿‍🎓 Formado em **CIÊNCIA DA COMPUTAÇÃO**<br>
 📈 Estudando **JAVA / SPRING **  <br>
 ### Participando Atualmente: 
