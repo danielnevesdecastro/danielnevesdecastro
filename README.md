@@ -2,8 +2,9 @@
  <br>
 👨🏿‍🎓 Formado em **CIÊNCIA DA COMPUTAÇÃO**<br>
 📈 Estudando **JAVA / SPRING **  <br>
+
 ### Participando Atualmente: 
- 📖 **DevDojoAcademy / UDEMY / Start JAVA Capgemini / Oracle ONE **
+ 📖 DevDojoAcademy / UDEMY / Start JAVA Capgemini / Oracle ONE
  
   
 <div>
