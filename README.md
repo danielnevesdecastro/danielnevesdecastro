@@ -6,7 +6,7 @@
 ### Participando Atualmente: 
  📖 DevDojoAcademy / UDEMY / Start JAVA Capgemini / Oracle ONE
  
-  
+ 
 <div>
 
 ***
