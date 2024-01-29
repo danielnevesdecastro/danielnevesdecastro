@@ -23,26 +23,33 @@
 ***
   
 <div style="display: inline_block">
-  <img align="center" alt="JAVA" height="60" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="SPRING" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="MY SQL" height="85" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="HTML" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PYTHON" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PANDAS" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
- 
-           
+  <img align="center" alt="JAVA" height="60" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
+  <img align="center" alt="SPRING" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
+  <img align="center" alt="HTML" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> 
+  <img align="center" alt="CSS" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="CSS" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
+***
+
+<div style="display: inline_block">
+<img  align="center" alt="ORACLE" height="80" width="110" src="https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/63a576e0ea7e9cdf7f43a4e3_oracle_database.svg" />
+<img align="center" alt="MY SQL" height="85" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
+</div>
  
  ***
 
  <div style="display: inline_block">
   <img align="center" alt="Eclipse" height="60" width="60"src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" />
+  <img align="center" alt="STS4" height="60" width="60" src="https://spring.io/img/projects/spring-tool.svg">
   <img align="center" alt="IntelliJ" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
-  <img align="center" alt="VSCODE" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
- 
+  <img align="center" alt="VSCODE" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="DBEAVER" height="60" width="60" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png"/>
+
+  </div>
+  
 ***
+
  <br>
  <div align="center">
  <a href="https://www.linkedin.com/in/danielnevesdecastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
