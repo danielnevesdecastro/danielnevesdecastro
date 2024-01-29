@@ -1,9 +1,10 @@
  ### Olá! Me chamo Daniel Neves  👋 
  <br>
-👨🏿‍🎓 Formado em **CIÊNCIA DA COMPUTAÇÃO**<br>
-📈 **JAVA | SPRING  | SQL | PLSQL  **  <br>
-
  
+👨🏿‍🎓 Formado em **CIÊNCIA DA COMPUTAÇÃO** <br>
+📈 **JAVA | SPRING | SQL | PLSQL**  <br>
+📊 **JSF | THYMELEAF** <br>
+📚 Estudando : **DESIGN PATTERNS | ANGULAR**
 <div>
 
 ***
