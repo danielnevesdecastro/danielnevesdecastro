@@ -44,6 +44,7 @@
   <img align="center" alt="STS4" height="60" width="60" src="https://spring.io/img/projects/spring-tool.svg">
   <img align="center" alt="IntelliJ" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
   <img align="center" alt="VSCODE" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="NOTEPAD++" height="60" width="60" src="https://notepad-plus-plus.org/images/logo.svg"/>
   <img align="center" alt="DBEAVER" height="60" width="60" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png"/>
   </div>
   
